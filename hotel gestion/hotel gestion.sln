@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hotel gestion", "hotel gestion\hotel gestion.vcxproj", "{FB561F0A-05DF-40FC-90FA-41F1EB723C39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB561F0A-05DF-40FC-90FA-41F1EB723C39}.Debug|x64.ActiveCfg = Debug|x64
+		{FB561F0A-05DF-40FC-90FA-41F1EB723C39}.Debug|x64.Build.0 = Debug|x64
+		{FB561F0A-05DF-40FC-90FA-41F1EB723C39}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB561F0A-05DF-40FC-90FA-41F1EB723C39}.Debug|x86.Build.0 = Debug|Win32
+		{FB561F0A-05DF-40FC-90FA-41F1EB723C39}.Release|x64.ActiveCfg = Release|x64
+		{FB561F0A-05DF-40FC-90FA-41F1EB723C39}.Release|x64.Build.0 = Release|x64
+		{FB561F0A-05DF-40FC-90FA-41F1EB723C39}.Release|x86.ActiveCfg = Release|Win32
+		{FB561F0A-05DF-40FC-90FA-41F1EB723C39}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CC10A1E-FC0C-46B6-9701-8D939B4FB1EA}
+	EndGlobalSection
+EndGlobal
