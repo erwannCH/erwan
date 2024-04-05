@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erwan\\source\\repos\\tirage mymilone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70DFFCAD-A9F5-44D7-9FDF-3FB537720764}|tirage mymilone\\tirage mymilone.vcxproj|C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\simulateur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70DFFCAD-A9F5-44D7-9FDF-3FB537720764}|tirage mymilone\\tirage mymilone.vcxproj|solutionrelative:tirage mymilone\\simulateur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DFFCAD-A9F5-44D7-9FDF-3FB537720764}|tirage mymilone\\tirage mymilone.vcxproj|C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\grille.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70DFFCAD-A9F5-44D7-9FDF-3FB537720764}|tirage mymilone\\tirage mymilone.vcxproj|solutionrelative:tirage mymilone\\grille.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DFFCAD-A9F5-44D7-9FDF-3FB537720764}|tirage mymilone\\tirage mymilone.vcxproj|C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\grille.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70DFFCAD-A9F5-44D7-9FDF-3FB537720764}|tirage mymilone\\tirage mymilone.vcxproj|solutionrelative:tirage mymilone\\grille.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DFFCAD-A9F5-44D7-9FDF-3FB537720764}|tirage mymilone\\tirage mymilone.vcxproj|C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70DFFCAD-A9F5-44D7-9FDF-3FB537720764}|tirage mymilone\\tirage mymilone.vcxproj|solutionrelative:tirage mymilone\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DFFCAD-A9F5-44D7-9FDF-3FB537720764}|tirage mymilone\\tirage mymilone.vcxproj|C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\simulateur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70DFFCAD-A9F5-44D7-9FDF-3FB537720764}|tirage mymilone\\tirage mymilone.vcxproj|solutionrelative:tirage mymilone\\simulateur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DFFCAD-A9F5-44D7-9FDF-3FB537720764}|tirage mymilone\\tirage mymilone.vcxproj|C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\tirage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70DFFCAD-A9F5-44D7-9FDF-3FB537720764}|tirage mymilone\\tirage mymilone.vcxproj|solutionrelative:tirage mymilone\\tirage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DFFCAD-A9F5-44D7-9FDF-3FB537720764}|tirage mymilone\\tirage mymilone.vcxproj|C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\tirage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70DFFCAD-A9F5-44D7-9FDF-3FB537720764}|tirage mymilone\\tirage mymilone.vcxproj|solutionrelative:tirage mymilone\\tirage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tirage.cpp",
+              "DocumentMoniker": "C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\tirage.cpp",
+              "RelativeDocumentMoniker": "tirage mymilone\\tirage.cpp",
+              "ToolTip": "C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\tirage.cpp",
+              "RelativeToolTip": "tirage mymilone\\tirage.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T10:16:04.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "grille.cpp",
+              "DocumentMoniker": "C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\grille.cpp",
+              "RelativeDocumentMoniker": "tirage mymilone\\grille.cpp",
+              "ToolTip": "C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\grille.cpp",
+              "RelativeToolTip": "tirage mymilone\\grille.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T10:17:09.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "simulateur.cpp",
+              "DocumentMoniker": "C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\simulateur.cpp",
+              "RelativeDocumentMoniker": "tirage mymilone\\simulateur.cpp",
+              "ToolTip": "C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\simulateur.cpp",
+              "RelativeToolTip": "tirage mymilone\\simulateur.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T10:13:25.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "simulateur.h",
+              "DocumentMoniker": "C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\simulateur.h",
+              "RelativeDocumentMoniker": "tirage mymilone\\simulateur.h",
+              "ToolTip": "C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\simulateur.h",
+              "RelativeToolTip": "tirage mymilone\\simulateur.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T10:05:41.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "grille.h",
+              "DocumentMoniker": "C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\grille.h",
+              "RelativeDocumentMoniker": "tirage mymilone\\grille.h",
+              "ToolTip": "C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\grille.h",
+              "RelativeToolTip": "tirage mymilone\\grille.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T10:04:48.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tirage.h",
+              "DocumentMoniker": "C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\tirage.h",
+              "RelativeDocumentMoniker": "tirage mymilone\\tirage.h",
+              "ToolTip": "C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\tirage.h",
+              "RelativeToolTip": "tirage mymilone\\tirage.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T10:04:21.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\main.cpp",
+              "RelativeDocumentMoniker": "tirage mymilone\\main.cpp",
+              "ToolTip": "C:\\Users\\erwan\\source\\repos\\tirage mymilone\\tirage mymilone\\main.cpp",
+              "RelativeToolTip": "tirage mymilone\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T10:06:24.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
